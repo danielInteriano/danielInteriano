@@ -1,5 +1,4 @@
 <h2> Hi, I'm Daniel Interiano! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Systems Engineer at <a href="https://www.unah.edu.hn">Universidad Autónoma de Honduras</a>
 </br>Software development at <a href="https://www.linkedin.com/in/danielinteriano">Home</a> 
 </em></p>
