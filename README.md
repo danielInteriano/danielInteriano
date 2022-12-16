@@ -12,7 +12,7 @@
 ```javascript
 const DanielInteriano = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, Angular, HTML, CSS, Bootstrap, Tailwind, SQL, MongoDB],
+  code: [Javascript, Typescript, React, Angular, HTML, CSS, Bootstrap, Tailwind, SQL, MongoDB],
   tools: [Node, Styled-Components],
   techChanel: {
                         site: "YouTube",
